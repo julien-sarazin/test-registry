@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/julien-sarazin/test-registry#readme",
   "dependencies": {
-    "yemma": "^1.2.1"
+    "yemma": "^1.2.2"
   }
 }
